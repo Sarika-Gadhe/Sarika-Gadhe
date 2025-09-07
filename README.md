@@ -50,6 +50,8 @@
 | [Study-Tracker_Project-Using-Java](https://github.com/Sarika-Gadhe/Study-Tracker_Project-Using-Java.git) | A Java application to organize, monitor, and track academic progress efficiently. | Java |
 | [LOGIC-BUILDING-ASSIGNMENTS](https://github.com/Sarika-Gadhe/LOGIC-BUILDING-ASSIGNMENTS.git) | Structured assignments focused on problem-solving.| C, C++, Java |
 | [Data_Structures ](https://github.com/Sarika-Gadhe/Data_Structures.git) | A collection of solved Data Structures & Algorithms challenges.  | C, C++, Java, Python|
+| [Linked-List-In-C-Cpp-Java-Python ](https://github.com/Sarika-Gadhe/Linked-List-In-C-Cpp-Java-Python.git) |Multi-language implementations of singly, doubly, and circular linked lists to master core data structure concepts. | C, C++, Java, Python |
+
 | [File Handling Utilities](https://github.com/Sarika-Gadhe/File-Handling-In-C-Cpp-Java-Python) | Programs demonstrating file read/write operations. | C, C++, Java, Python |
 | [Menu-Driven Applications](https://github.com/Sarika-Gadhe/Menu-Driven-Applications-In-Java) | Console-based modular applications. | Java |
 | [DSA Practice Problems](https://github.com/Sarika-Gadhe/DSA-Practice-Problems) | A collection of solved Data Structures & Algorithms challenges. | C++, Java, Python |
