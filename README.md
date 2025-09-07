@@ -56,24 +56,15 @@
 | [Stack-Queue-In-C-Cpp-Java](https://github.com/Sarika-Gadhe/Stack-Queue-In-C-Cpp-Java.git) | Implementations of stack and queue data structures. | C, C++, Java |
 | [Generic-Stack-Queue-In-Cpp-Java ](https://github.com/Sarika-Gadhe/Generic-Stack-Queue-In-Cpp-Java.git) | Implementations of Generic stack and queue data structures. | C++, Java |
 | [Coding_Practice](https://github.com/Sarika-Gadhe/Coding_Practice.git) | A collection of coding problems to enhance logic and problem-solving skills. | C, C++, Java, Python, JavaSript |
-| [C_Programming_Practice ](https://github.com/Sarika-Gadhe/C_Programming_Practice) | Problem-solving practice with C programs. | C |
+| [C_Programming_Practice ](https://github.com/Sarika-Gadhe/C_Programming_Practice.git) | Problem-solving practice with C programs. | C |
 | [CPP_Programming_Practice ](https://github.com/Sarika-Gadhe/CPP_Programming_Practice.git) | Problem-solving practice with C++ programs. | C++ |
-| [JAVA_Programming_Practice ](https://github.com/Sarika-Gadhe/JAVA_Programming_Practice) | Problem-solving practice with Java programs. | C++ |
+| [JAVA_Programming_Practice ](https://github.com/Sarika-Gadhe/JAVA_Programming_Practice.git) | Problem-solving practice with Java programs. | C++ |
+| [Python_Programs ](https://github.com/Sarika-Gadhe/Python_Programs.git) | Logic-building and syntax practice in Python. | Python |
+| [JavaScript](https://github.com/Sarika-Gadhe/JavaScript.git) |  Logic building in JavaScript. | JavaScript |
+| [C_Programs ](https://github.com/Sarika-Gadhe/C_Programs.git) | More practice in C programming. | C |
+| [Java_Programs](https://github.com/Sarika-Gadhe/Java_Programs.git) | More practice in Java programming. | Java |
+| [CPP_Programs ](https://github.com/Sarika-Gadhe/CPP_Programs) | More practice in C++ programming. | C++ |
 
-| [Python Programs](https://github.com/Sarika-Gadhe/Python_Programs) | Logic-building scripts and syntax practice in Python. | Python |
-| [Java Programs](https://github.com/Sarika-Gadhe/Java_Programs) | Foundational Java programs for syntax and logic building. | Java |
-| [CPP Programs](https://github.com/Sarika-Gadhe/CPP_Programs) | C++ programs focused on logic and structure. | C++ |
-| [C Programs](https://github.com/Sarika-Gadhe/C_Programs) | Basic C programs for syntax and logic building. | C |
-| [JavaScript Snippets](https://github.com/Sarika-Gadhe/JavaScript) | Practice scripts and logic building in JavaScript. | JavaScript |
-| [JAVA Programming Practice](https://github.com/Sarika-Gadhe/JAVA_Programming_Practice) | Java exercises and problem-solving practice. | Java |
-| [CPP Programming Practice](https://github.com/Sarika-Gadhe/CPP_Programming_Practice) | C++ exercises and syntax refinement. | C++ |
-| [C Programming Practice](https://github.com/Sarika-Gadhe/C_Programming_Practice) | C exercises and logic-building assignments. | C |
-| [LinkedList Implementations](https://github.com/Sarika-Gadhe/_LinkedList_Implementations_) | Additional linked list logic in C++. | C++ |
-| [Logic Building Assignments](https://github.com/Sarika-Gadhe/LOGIC-BUILDING-ASSIGNMENTS) | Structured assignments focused on problem-solving. | C |
-| [Stack & Queue in C, C++, Java](https://github.com/Sarika-Gadhe/Stack-Queue-In-C-Cpp-Java) | Menu-driven stack and queue programs. | C, C++, Java |
-| [Generic Linked List](https://github.com/Sarika-Gadhe/Generic-Linked-List-In-Cpp-Java) | Reusable linked list logic in C++ and Java. | C++, Java |
-| [Chatbot using NLP](https://github.com/Sarika-Gadhe/Implementation-of-Chatbot-using-NLP) | Chatbot implementation using natural language processing. | Python, NLP |
-| [Amazon Clone](https://github.com/Sarika-Gadhe/Amazon-Clone) | HTML-based clone of Amazon homepage. | HTML, CSS |
 
 
 
