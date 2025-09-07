@@ -65,6 +65,36 @@
 | [Java_Programs](https://github.com/Sarika-Gadhe/Java_Programs.git) | More practice in Java programming. | Java |
 | [CPP_Programs ](https://github.com/Sarika-Gadhe/CPP_Programs) | More practice in C++ programming. | C++ |
 
+----
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+### 🔥 Contribution Streak  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sarika-Gadhe&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
+
+### 📈 GitHub Overview  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarika-Gadhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+
+### 💡 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarika-Gadhe&layout=compact&theme=tokyonight&hide_border=true)  
+
+</div>
+
+---
+## 💖 Support My Work  
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Sarika-Gadhe)  
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/yourID)  
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/yourID)  
+
+
+
+
+
+
+
 
 
 
