@@ -83,11 +83,16 @@
 </div>
 
 ---
-## 💖 Support My Work  
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Sarika-Gadhe)  
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/yourID)  
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/yourID)  
+## 🕸️ Work Distribution  
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarika-Gadhe&theme=blue_green" alt="Radar Chart" />
+</div>
+
+
+
+
 
 
 
