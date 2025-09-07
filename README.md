@@ -45,11 +45,11 @@
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| [Client–Server Chat Application](https://github.com/Sarika-Gadhe/Client-Server-Chat-Application_Project-Using-Java) | Real-time messaging app using socket programming. | Java, Networking |
-| [Packer–Unpacker Utility](https://github.com/Sarika-Gadhe/Packer-UnPacker_Project-Using-Java) | Utility tool for compressing and extracting files. | Java, File Handling |
-| [Study Tracker](https://github.com/Sarika-Gadhe/Study-Tracker_Project-Using-Java) | Application to organize and monitor study progress. | Java, OOP |
-| [Linked List Implementations](https://github.com/Sarika-Gadhe/Linked-List-In-C-Cpp-Java-Python) | Implementations of single, double, and circular linked lists. | C, C++, Java, Python |
-| [Generic Stack & Queue](https://github.com/Sarika-Gadhe/Generic-Stack-Queue-In-Cpp-Java) | Reusable stack and queue data structures. | C++, Java |
+| [Client-Server-Chat-Application_Project-Using-Java](https://github.com/Sarika-Gadhe/Client-Server-Chat-Application_Project-Using-Java.git) | Real-time messaging app using socket programming. | Java, Networking |
+| [Packer-UnPacker_Project-Using-Java](https://github.com/Sarika-Gadhe/Packer-UnPacker_Project-Using-Java.git) | A Java-based project that merges multiple files into a single archive and restores them back with precision. | Java |
+| [Study-Tracker_Project-Using-Java](https://github.com/Sarika-Gadhe/Study-Tracker_Project-Using-Java.git) | A Java application to organize, monitor, and track academic progress efficiently. | Java |
+| [LOGIC-BUILDING-ASSIGNMENTS](https://github.com/Sarika-Gadhe/LOGIC-BUILDING-ASSIGNMENTS.git) | Structured assignments focused on problem-solving.| C, C++, Java |
+| [Data_Structures ](https://github.com/Sarika-Gadhe/Data_Structures.git) | A collection of solved Data Structures & Algorithms challenges.  | C, C++, Java, Python|
 | [File Handling Utilities](https://github.com/Sarika-Gadhe/File-Handling-In-C-Cpp-Java-Python) | Programs demonstrating file read/write operations. | C, C++, Java, Python |
 | [Menu-Driven Applications](https://github.com/Sarika-Gadhe/Menu-Driven-Applications-In-Java) | Console-based modular applications. | Java |
 | [DSA Practice Problems](https://github.com/Sarika-Gadhe/DSA-Practice-Problems) | A collection of solved Data Structures & Algorithms challenges. | C++, Java, Python |
