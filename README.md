@@ -37,6 +37,7 @@
 - 🧩 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)  
 - 🔧 **Version Control:** Git, GitHub  
 - ⚙️ **Development Practices:** Clean Code, Debugging, Problem Solving,  Optimization
+
   
 ----
 
@@ -44,15 +45,28 @@
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| 🧭 [Lost & Found System](https://github.com/Sarika-Gadhe/Lost-And-Found-System-Project-Using-Java) | Campus-focused system to manage and track lost items. | Java, MySQL, OOP |
-| 💬 [Client–Server Chat Application](https://github.com/Sarika-Gadhe/Client-Server-Chat-Application_Project-Using-Java) | Real-time messaging app using socket programming. | Java, Networking |
-| 📦 [Packer–Unpacker Utility](https://github.com/Sarika-Gadhe/Packer-UnPacker_Project-Using-Java) | Utility tool for compressing and extracting files. | Java, File Handling |
-| 📚 [Study Tracker](https://github.com/Sarika-Gadhe/Study-Tracker_Project-Using-Java) | Application to organize and monitor study progress. | Java, OOP |
-| 🔗 [Linked List Implementations](https://github.com/Sarika-Gadhe/Linked-List-In-C-Cpp-Java-Python) | Implementations of single, double, and circular linked lists. | C, C++, Java, Python |
-| 🌀 [Generic Stack & Queue](https://github.com/Sarika-Gadhe/Generic-Stack-Queue-In-Cpp-Java) | Reusable stack and queue data structures. | C++, Java |
-| 🗂️ [File Handling Utilities](https://github.com/Sarika-Gadhe/File-Handling-In-C-Cpp-Java-Python) | Programs demonstrating file read/write operations. | C, C++, Java, Python |
-| 📋 [Menu-Driven Applications](https://github.com/Sarika-Gadhe/Menu-Driven-Applications-In-Java) | Console-based modular applications. | Java |
-| 🧩 [DSA Practice Problems](https://github.com/Sarika-Gadhe/DSA-Practice-Problem) | A collection of solved Data Structures & Algorithms challenges. | C++, Java, Python |
+| [Client–Server Chat Application](https://github.com/Sarika-Gadhe/Client-Server-Chat-Application_Project-Using-Java) | Real-time messaging app using socket programming. | Java, Networking |
+| [Packer–Unpacker Utility](https://github.com/Sarika-Gadhe/Packer-UnPacker_Project-Using-Java) | Utility tool for compressing and extracting files. | Java, File Handling |
+| [Study Tracker](https://github.com/Sarika-Gadhe/Study-Tracker_Project-Using-Java) | Application to organize and monitor study progress. | Java, OOP |
+| [Linked List Implementations](https://github.com/Sarika-Gadhe/Linked-List-In-C-Cpp-Java-Python) | Implementations of single, double, and circular linked lists. | C, C++, Java, Python |
+| [Generic Stack & Queue](https://github.com/Sarika-Gadhe/Generic-Stack-Queue-In-Cpp-Java) | Reusable stack and queue data structures. | C++, Java |
+| [File Handling Utilities](https://github.com/Sarika-Gadhe/File-Handling-In-C-Cpp-Java-Python) | Programs demonstrating file read/write operations. | C, C++, Java, Python |
+| [Menu-Driven Applications](https://github.com/Sarika-Gadhe/Menu-Driven-Applications-In-Java) | Console-based modular applications. | Java |
+| [DSA Practice Problems](https://github.com/Sarika-Gadhe/DSA-Practice-Problems) | A collection of solved Data Structures & Algorithms challenges. | C++, Java, Python |
+| [Python Programs](https://github.com/Sarika-Gadhe/Python_Programs) | Logic-building scripts and syntax practice in Python. | Python |
+| [Java Programs](https://github.com/Sarika-Gadhe/Java_Programs) | Foundational Java programs for syntax and logic building. | Java |
+| [CPP Programs](https://github.com/Sarika-Gadhe/CPP_Programs) | C++ programs focused on logic and structure. | C++ |
+| [C Programs](https://github.com/Sarika-Gadhe/C_Programs) | Basic C programs for syntax and logic building. | C |
+| [JavaScript Snippets](https://github.com/Sarika-Gadhe/JavaScript) | Practice scripts and logic building in JavaScript. | JavaScript |
+| [JAVA Programming Practice](https://github.com/Sarika-Gadhe/JAVA_Programming_Practice) | Java exercises and problem-solving practice. | Java |
+| [CPP Programming Practice](https://github.com/Sarika-Gadhe/CPP_Programming_Practice) | C++ exercises and syntax refinement. | C++ |
+| [C Programming Practice](https://github.com/Sarika-Gadhe/C_Programming_Practice) | C exercises and logic-building assignments. | C |
+| [LinkedList Implementations](https://github.com/Sarika-Gadhe/_LinkedList_Implementations_) | Additional linked list logic in C++. | C++ |
+| [Logic Building Assignments](https://github.com/Sarika-Gadhe/LOGIC-BUILDING-ASSIGNMENTS) | Structured assignments focused on problem-solving. | C |
+| [Stack & Queue in C, C++, Java](https://github.com/Sarika-Gadhe/Stack-Queue-In-C-Cpp-Java) | Menu-driven stack and queue programs. | C, C++, Java |
+| [Generic Linked List](https://github.com/Sarika-Gadhe/Generic-Linked-List-In-Cpp-Java) | Reusable linked list logic in C++ and Java. | C++, Java |
+| [Chatbot using NLP](https://github.com/Sarika-Gadhe/Implementation-of-Chatbot-using-NLP) | Chatbot implementation using natural language processing. | Python, NLP |
+| [Amazon Clone](https://github.com/Sarika-Gadhe/Amazon-Clone) | HTML-based clone of Amazon homepage. | HTML, CSS |
 
 
 
