@@ -29,14 +29,14 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql,git,github&perline=8)](https://skillicons.dev)  
-
-- 💻 **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS  
-- 🗄️ **Databases:** SQL
-- 🧠 **Logic Building:** Problem Solving, Analytical Thinking, Algorithm Design  
-- 🧩 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)  
-- 🔧 **Version Control:** Git, GitHub  
-- ⚙️ **Development Practices:** Clean Code, Debugging, Problem Solving,  Optimization
+    [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql,git,github&perline=8)](https://skillicons.dev)  
+    
+    - 💻 **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS  
+    - 🗄️ **Databases:** SQL
+    - 🧠 **Logic Building:** Problem Solving, Analytical Thinking, Algorithm Design  
+    - 🧩 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)  
+    - 🔧 **Version Control:** Git, GitHub  
+    - ⚙️ **Development Practices:** Clean Code, Debugging, Problem Solving,  Optimization
 
   
 ----
@@ -58,7 +58,7 @@
 | [Coding_Practice](https://github.com/Sarika-Gadhe/Coding_Practice.git) | A collection of coding problems to enhance logic and problem-solving skills. | C, C++, Java, Python, JavaSript |
 | [C_Programming_Practice ](https://github.com/Sarika-Gadhe/C_Programming_Practice.git) | Problem-solving practice with C programs. | C |
 | [CPP_Programming_Practice ](https://github.com/Sarika-Gadhe/CPP_Programming_Practice.git) | Problem-solving practice with C++ programs. | C++ |
-| [JAVA_Programming_Practice ](https://github.com/Sarika-Gadhe/JAVA_Programming_Practice.git) | Problem-solving practice with Java programs. | C++ |
+| [JAVA_Programming_Practice ](https://github.com/Sarika-Gadhe/JAVA_Programming_Practice.git) | Problem-solving practice with Java programs. | Java |
 | [Python_Programs ](https://github.com/Sarika-Gadhe/Python_Programs.git) | Logic-building and syntax practice in Python. | Python |
 | [JavaScript](https://github.com/Sarika-Gadhe/JavaScript.git) |  Logic building in JavaScript. | JavaScript |
 | [C_Programs ](https://github.com/Sarika-Gadhe/C_Programs.git) | More practice in C programming. | C |
