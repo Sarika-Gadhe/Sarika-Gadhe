@@ -51,10 +51,13 @@
 | [LOGIC-BUILDING-ASSIGNMENTS](https://github.com/Sarika-Gadhe/LOGIC-BUILDING-ASSIGNMENTS.git) | Structured assignments focused on problem-solving.| C, C++, Java |
 | [Data_Structures ](https://github.com/Sarika-Gadhe/Data_Structures.git) | A collection of solved Data Structures & Algorithms challenges.  | C, C++, Java, Python|
 | [Linked-List-In-C-Cpp-Java-Python ](https://github.com/Sarika-Gadhe/Linked-List-In-C-Cpp-Java-Python.git) |Multi-language implementations of singly, doubly, and circular linked lists to master core data structure concepts. | C, C++, Java, Python |
+| [LinkedList_Implementations](https://github.com/Sarika-Gadhe/_LinkedList_Implementations_.git) | Combined implementations showcasing core linked list operations and logic building. | C++, Java|
+| [Generic-Linked-List-In-Cpp-Java ](https://github.com/Sarika-Gadhe/Generic-Linked-List-In-Cpp-Java.git) | Implementation of a generic linked list data structure. | C++, Java |
+| [Stack-Queue-In-C-Cpp-Java](https://github.com/Sarika-Gadhe/Stack-Queue-In-C-Cpp-Java.git) | Implementations of stack and queue data structures. | C, C++, Java |
+| [Generic-Stack-Queue-In-Cpp-Java ](https://github.com/Sarika-Gadhe/Generic-Stack-Queue-In-Cpp-Java.git) | Implementations of Generic stack and queue data structures. | C++, Java |
+| [Coding_Practice](https://github.com/Sarika-Gadhe/Coding_Practice.git) | A collection of coding problems to enhance logic and problem-solving skills. | C, C++, Java, Python, JavaSript |
+| [C_Programming_Practice ](https://github.com/Sarika-Gadhe/Coding_Practice.git) | A collection of coding problems to enhance logic and problem-solving skills. | C, C++, Java, Python, JavaSript |
 
-| [File Handling Utilities](https://github.com/Sarika-Gadhe/File-Handling-In-C-Cpp-Java-Python) | Programs demonstrating file read/write operations. | C, C++, Java, Python |
-| [Menu-Driven Applications](https://github.com/Sarika-Gadhe/Menu-Driven-Applications-In-Java) | Console-based modular applications. | Java |
-| [DSA Practice Problems](https://github.com/Sarika-Gadhe/DSA-Practice-Problems) | A collection of solved Data Structures & Algorithms challenges. | C++, Java, Python |
 | [Python Programs](https://github.com/Sarika-Gadhe/Python_Programs) | Logic-building scripts and syntax practice in Python. | Python |
 | [Java Programs](https://github.com/Sarika-Gadhe/Java_Programs) | Foundational Java programs for syntax and logic building. | Java |
 | [CPP Programs](https://github.com/Sarika-Gadhe/CPP_Programs) | C++ programs focused on logic and structure. | C++ |
