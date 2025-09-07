@@ -80,15 +80,32 @@
 ### 💡 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarika-Gadhe&layout=compact&theme=tokyonight&hide_border=true)  
 
-</div>
-
----
-
 ## 🕸️ Work Distribution  
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarika-Gadhe&theme=blue_green" alt="Radar Chart" />
 </div>
+
+</div>
+
+---
+
+## 📫 Let’s Connect  
+
+<p align="center">  
+  ✨ I’m always open to <b>collaboration, discussions, and new opportunities</b> ✨  
+  <br>
+  🤝 Feel free to connect with me through the platforms below 🌍  
+</p>
+
+
+- 💼 **LinkedIn :**  www.linkedin.com/in/sarika-gadhe
+- 📧 **Email :** sarikagadhe762@gmail.com 
+
+---
+
+<h3 align="center">🌟 Thank You for Visiting My Profile 🌟</h3>  
+<h4 align="center">💡 Keep Learning | Keep Building | Keep Growing 💡</h4>
 
 
 
