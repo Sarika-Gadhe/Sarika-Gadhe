@@ -56,7 +56,9 @@
 | [Stack-Queue-In-C-Cpp-Java](https://github.com/Sarika-Gadhe/Stack-Queue-In-C-Cpp-Java.git) | Implementations of stack and queue data structures. | C, C++, Java |
 | [Generic-Stack-Queue-In-Cpp-Java ](https://github.com/Sarika-Gadhe/Generic-Stack-Queue-In-Cpp-Java.git) | Implementations of Generic stack and queue data structures. | C++, Java |
 | [Coding_Practice](https://github.com/Sarika-Gadhe/Coding_Practice.git) | A collection of coding problems to enhance logic and problem-solving skills. | C, C++, Java, Python, JavaSript |
-| [C_Programming_Practice ](https://github.com/Sarika-Gadhe/Coding_Practice.git) | A collection of coding problems to enhance logic and problem-solving skills. | C, C++, Java, Python, JavaSript |
+| [C_Programming_Practice ](https://github.com/Sarika-Gadhe/C_Programming_Practice) | Problem-solving practice with C programs. | C |
+| [CPP_Programming_Practice ](https://github.com/Sarika-Gadhe/CPP_Programming_Practice.git) | Problem-solving practice with C++ programs. | C++ |
+| [JAVA_Programming_Practice ](https://github.com/Sarika-Gadhe/JAVA_Programming_Practice) | Problem-solving practice with Java programs. | C++ |
 
 | [Python Programs](https://github.com/Sarika-Gadhe/Python_Programs) | Logic-building scripts and syntax practice in Python. | Python |
 | [Java Programs](https://github.com/Sarika-Gadhe/Java_Programs) | Foundational Java programs for syntax and logic building. | Java |
