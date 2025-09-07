@@ -29,14 +29,14 @@
 
 ## 🛠️ Tech Stack & Tools  
 
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql,git,github&perline=8)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,sql,git,github&perline=8)](https://skillicons.dev)  
     
-    - 💻 **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS  
-    - 🗄️ **Databases:** SQL
-    - 🧠 **Logic Building:** Problem Solving, Analytical Thinking, Algorithm Design  
-    - 🧩 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)  
-    - 🔧 **Version Control:** Git, GitHub  
-    - ⚙️ **Development Practices:** Clean Code, Debugging, Problem Solving,  Optimization
+- 💻 **Languages:** C, C++, Java, Python, JavaScript, HTML, CSS  
+- 🗄️ **Databases:** SQL
+- 🧠 **Logic Building:** Problem Solving, Analytical Thinking, Algorithm Design  
+- 🧩 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)  
+- 🔧 **Version Control:** Git, GitHub  
+- ⚙️ **Development Practices:** Clean Code, Debugging, Problem Solving,  Optimization
 
   
 ----
