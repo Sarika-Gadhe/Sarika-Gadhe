@@ -45,7 +45,7 @@
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| [Client-Server-Chat-Application_Project-Using-Java](https://github.com/Sarika-Gadhe/Client-Server-Chat-Application_Project-Using-Java.git) | Real-time messaging app using socket programming. | Java, Networking |
+| [Chat-Messenger-with-Log-Facility-Project](https://github.com/Sarika-Gadhe/Chat-Messenger-with-Log-Facility-Project.git) | Real-time messaging app using Java programming. | Java |
 | [Packer-UnPacker_Project-Using-Java](https://github.com/Sarika-Gadhe/Packer-UnPacker_Project-Using-Java.git) | A Java-based project that merges multiple files into a single archive and restores them back with precision. | Java |
 | [Study-Tracker_Project-Using-Java](https://github.com/Sarika-Gadhe/Study-Tracker_Project-Using-Java.git) | A Java application to organize, monitor, and track academic progress efficiently. | Java |
 | [LOGIC-BUILDING-ASSIGNMENTS](https://github.com/Sarika-Gadhe/LOGIC-BUILDING-ASSIGNMENTS.git) | Structured assignments focused on problem-solving.| C, C++, Java |
