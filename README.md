@@ -75,20 +75,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sarika-Gadhe&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
 ### 📈 GitHub Overview  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarika-Gadhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sarika-Gadhe&theme=tokyonight" alt="GitHub Stats" />  
 
 ### 💡 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarika-Gadhe&layout=compact&theme=tokyonight&hide_border=true)  
-
-## 🕸️ Work Distribution  
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sarika-Gadhe&theme=blue_green" alt="Radar Chart" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarika-Gadhe&theme=tokyonight" alt="Top Languages by Repo" />  
 
 </div>
 
----
+----
 
 ## 📫 Let’s Connect  
 
