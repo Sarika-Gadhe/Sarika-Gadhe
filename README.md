@@ -45,7 +45,7 @@
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| [Generic_Data_Structures_Library_Project ](https://github.com/Sarika-Gadhe/Generic_Data_Structures_Library_Project.git) | Generic C++ library for data structures & algorithms. | C++ |
+| [ Generalised_Data_Structures_Library_Project ](https://github.com/Sarika-Gadhe/Generalised_Data_Structures_Library_Project.git) | Generic C++ library for data structures & algorithms. | C++ |
 | [Chat-Messenger-with-Log-Facility-Project](https://github.com/Sarika-Gadhe/Chat-Messenger-with-Log-Facility-Project.git) | Real-time messaging app using Java programming. | Java |
 | [Packer-UnPacker_Project-Using-Java](https://github.com/Sarika-Gadhe/Packer-UnPacker_Project-Using-Java.git) | A Java-based project that merges multiple files into a single archive and restores them back with precision. | Java |
 | [Study-Tracker_Project-Using-Java](https://github.com/Sarika-Gadhe/Study-Tracker_Project-Using-Java.git) | A Java application to organize, monitor, and track academic progress efficiently. | Java |
