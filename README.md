@@ -80,6 +80,15 @@
 ### 💡 Top Languages  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sarika-Gadhe&theme=tokyonight" alt="Top Languages by Repo" />  
 
+## 📅 Contribution Activity  
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarika-Gadhe&bg_color=0d1117&color=ffffff&line=ff007f&point=00ffff&area=true&hide_border=true)
+
+</div>
+
+
 </div>
 
 ----
